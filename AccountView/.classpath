@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/FB$E/Downloads/db-derby-10.14.1.0-bin/db-derby-10.14.1.0-bin/lib"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -35,6 +36,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/FB$E/Downloads/db-derby-10.14.1.0-bin/db-derby-10.14.1.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FB$E/.m2/repository/com/twilio/sdk/twilio/7.17.8/twilio-7.17.8.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
